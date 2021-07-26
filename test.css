@@ -1,0 +1,42 @@
+.first {
+  background-color: red;
+  margin: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.head-logo {
+  display: inline-block;
+}
+
+.two{
+    
+    display: inline-block;
+    border-radius: 25px;
+}
+.three{
+    text-align: center;
+    border-radius: 25px;
+}
+main {
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-size: 20px;
+}
+.new {
+  width: 50%;
+  background-color: white;
+  color: black;
+}
+#end {
+  background-color: black;
+  color: white;
+  height: 200px;
+  border-top-right-radius: 25px;
+}
+.final{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
